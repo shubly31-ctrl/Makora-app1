@@ -1,2 +1,1 @@
-# Makora-app1
-Makora _ create. Connect. Grow
+# Makora-app
